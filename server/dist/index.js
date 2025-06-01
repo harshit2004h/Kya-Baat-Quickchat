@@ -15,12 +15,7 @@ import { consumeMessages } from "./helper.kafka.js";
 const server = createServer(app);
 const io = new Server(server, {
     cors: {
-        origin: [
-            "http://localhost:3000",
-            "https://admin.socket.io",
-            "https://kya-baat-quickchat.vercel.app",
-            "https://kya-baat-quickchat.vercel.app.socket.io",
-        ],
+        origin: ["http://localhost:3000", "https://admin.socket.io", "https://kya-baat-quickchat.vercel.app", "https://kya-baat-quickchat.vercel.app.socket.io"],
         credentials: true,
     },
     adapter: createAdapter(client),
