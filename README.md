@@ -6,6 +6,10 @@ Built with **Socket.IO**, **Redis**, and **Kafka** for fast, real-time, and reli
 
 ---
 
+Deployed Link- https://kya-baat-quickchat.vercel.app
+
+---
+
 ## ✨ Features
 
 - 🔄 **Real-time messaging** with Socket.IO
