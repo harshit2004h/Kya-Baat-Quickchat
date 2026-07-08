@@ -1,4 +1,4 @@
-# 💬 Kya Baat - Quick Chat App
+
 
 **Kya Baat** is a modern, formal, and secure real-time quick chat application designed for meaningful communication—whether in teams, communities, or professional spaces.
 
@@ -40,21 +40,4 @@ Server Link- https://kya-baat-quickchat.onrender.com
 
 ### 1. Clone the repo
 
-```bash
-git clone https://github.com/yourusername/kya-baat.git
-cd kya-baat
-
-# Install dependencies
-npm install
-
-# Start development server
-npm run dev
-```
-
-## 📜 License
-
-Licensed under the [MIT License](LICENSE).
-
----
-
-🚀 **Contributions are welcome!** Feel free to open issues and submit PRs. Happy coding!
+```basha
